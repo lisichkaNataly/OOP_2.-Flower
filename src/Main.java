@@ -40,7 +40,7 @@ public class Main {
             printIfo(flower);
         }
         totalCost = totalCost * 1.1;
-        System.out.println("Стоимость букета: " + totalCost);
-        System.out.println("Срок стояния букета: " + minimumLifeSpan);
+        System.out.println("Стоимость букета: " + totalCost + " рублей");
+        System.out.println("Срок стояния букета: " + minimumLifeSpan + " дней");
     }
 }
